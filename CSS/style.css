@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+body {
+    background-color: #f1f1f1;
+    font-family: "Teko", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 ;
+  }
+
+img{
+  width: 500px;
+  height: 500px;
+}
+  .card {
+    font-size: 27px;
+    background-color: #38b6ff;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: auto;
+  }
+  
+  .card-title {
+    margin-bottom: 20px;
+  }
+
+
+a{
+    color: rgb(255, 255, 255);
+  }
